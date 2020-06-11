@@ -8,6 +8,7 @@ body {
     align-items: center;
     max-width: 500px;
     margin: 0 auto;
+    padding: 20px 0;
     border: 1px solid #d3d3d3;
 }
 section {
@@ -35,4 +36,6 @@ section {
     background-color: #10A5F5;
     color: #ffffff;
     padding: 25px 0;
+    display: flex;
+    justify-content: space-between;
 }
