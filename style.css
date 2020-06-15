@@ -18,11 +18,15 @@ section {
 #bio-pic {
     border-radius: 10%;
 }
+#bio-desc {
+    margin-bottom: 20px;
+}
 #bio-add {
     border: 2px solid #ffffff;
     border-radius: 3px;
     padding: 2px 15px;
     color: #ffffff;
+    box-sizing: content-box;
 }
 .social-icon, #bio-pic {
     margin-right: 30px;
