@@ -18,7 +18,7 @@ section {
 #bio-pic {
     border-radius: 10%;
 }
-.social-icon {
+.social-icon, #bio-pic {
     margin-right: 30px;
 }
 img {
